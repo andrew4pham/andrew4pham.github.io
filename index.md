@@ -4,7 +4,7 @@ This is my home page! My name is Andrew Pham and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/andrew4pham].(http://github.com/andrew4pham)
+My GitHub page is [http://github.com/andrew4pham](http://github.com/andrew4pham).
 
 ### CPSC 120
 
